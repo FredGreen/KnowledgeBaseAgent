@@ -1,0 +1,12 @@
+[project]
+sub_id = "58a194dd"
+name = "intelligent-qa-agent"
+requires = ["python-3.12"]
+project_type = ""
+version = ""
+
+[preview]
+preview_enable = "disabled"
+
+[subprojects]
+path = ["."]
